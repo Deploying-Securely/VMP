@@ -25,7 +25,7 @@ This policy applies to all organization-controlled code.
 
 | Action | Timeline | Trigger |
 |---|---|---|
-|State in writing via VULNERABILITY_REGISTRY_LOCATION:<br>A plan, including timeline, for return to risk appetite; or<br>intention to accept or transfer the risk from vulnerabilities if, in the written opinion of the RISK_ACCEPTANCE_AUTHORITY, doing so is in the best interests of ORGANIZATION_NAME. In the latter case, such a statement shall include:<br>--Vulnerabilities for which risk is to be accepted or transferred;<br>--If risk is transferred, how it is being done (contractually, through insurance, etc.);<br>--Planned communication external to ORGANIZATION_NAME, if any;<br>--Justification for acceptance or transfer; and<br>--Plan, including timeline, for return to risk appetite, if applicable.|80% of risk tolerance expended or 72 hours, whichever is less|70% or more of risk tolerance expended|
+|State in writing via VULNERABILITY_REGISTRY_LOCATION:<br>A plan, including timeline, for return to risk appetite; or<br>intention to accept or transfer the risk from vulnerabilities if, in the written opinion of the RISK_ACCEPTANCE_AUTHORITY, doing so is in the best interests of ORGANIZATION_NAME. In the latter case, such a statement shall include:<br>-Vulnerabilities for which risk is to be accepted or transferred;<br>-If risk is transferred, how it is being done (contractually, through insurance, etc.);<br>-Planned communication external to ORGANIZATION_NAME, if any;<br>-Justification for acceptance or transfer; and<br>-Plan, including timeline, for return to risk appetite, if applicable.|80% of risk tolerance expended or 72 hours, whichever is less|70% or more of risk tolerance expended|
 |Approve deferral of applying controls to vulnerabilities in writing via VULNERABILITY_REGISTRY_LOCATION.|100% of risk tolerance expended or 72 hours after receipt of opinion from PRIMARY_RISK_ADVISOR, whichever is less|Receipt of opinion from PRIMARY_RISK_ADVISOR|
 |When requesting an indefinite risk acceptance, conduct all above steps again, indefinitely or until risk in excess of appetite is mitigated or avoided.|180 calendar days after above step|174 calendar days after above step|	
 
@@ -51,7 +51,7 @@ This policy applies to all organization-controlled code.
 
 * Organization-controlled code: Computer language of any type which a properly authenticated and authorized member (employee or contractor) of the organization can wholly move into and out of operation without further coordination with anyone external to the organization.
    * This would include a company-built application, including any third-party libraries included therein, running on top of a Platform-as-a-Service offering.
-   * This definition would exclude a Software-as-a-Service product, as company personnel cannot wholly move it into and out of operation themselves.
+   * This would exclude a Software-as-a-Service product, as company personnel cannot wholly move it into and out of operation themselves.
 
 * Financial loss: the cost of something occurring to an organization. This does not merely include direct losses due to forgone revenue, but also reputational damage, unplanned employee attrition, regulatory action, and litigation, among other consequences.
 
@@ -64,8 +64,3 @@ This policy applies to all organization-controlled code.
 * Exposure factor: The degree to which successful malicious exploitation of a given vulnerability will cause a loss to a given asset, recorded as a number between 0 and 1.0 for each data attribute.
 
 * Annualized Loss Expectancy: A given vulnerability’s probability of exploitation multiplied by its exposure factor for each data attribute multiplied by potentially impacted asset values, for each data attribute.
-Approval
-
-
-_______________________________________________________________        ___________________________
-POLICY_APPROVER                                                        Date
