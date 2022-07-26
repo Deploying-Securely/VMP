@@ -20,7 +20,7 @@ This policy applies to all organization-controlled code.
 |Ensure the mitigation or avoidance of risk stemming from vulnerabilities, and document such actions in VULNERABILITY_REGISTRY_LOCATION.|As needed to avoid exceeding risk tolerance.|Determination that current risk exceeds risk appetite.|
 |Ensure the preservation of all written entries in ASSET_REGISTRY_LOCATION and VULNERABILITY_REGISTRY_LOCATION.|7 calendar years|Entry of information|
 
-#Risk Acceptance or Transfer
+# Risk Acceptance or Transfer
 - The RISK_ACCEPTANCE_AUTHORITY shall:
 
 | Action | Timeline | Trigger |
@@ -31,6 +31,7 @@ In the latter case, such a statement shall include:\--Vulnerabilities for which 
 |When requesting an indefinite risk acceptance, conduct all above steps again, indefinitely or until risk in excess of appetite is mitigated or avoided.|180 calendar days after above step|174 calendar days after above step|	
 
 - The PRIMARY_RISK_ADVISOR shall:
+- 
 |Action|Timeline|Trigger|
 |---|---|---|
 |State, in writing via VULNERABILITY_REGISTRY_LOCATION, an opinion as to:
