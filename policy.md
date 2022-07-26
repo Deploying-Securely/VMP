@@ -1,11 +1,14 @@
-Purpose
+# Purpose\
+
 Ensure risk from software vulnerabilities remains within ORGANIZATION_NAME’s appetite and tolerance, or that the RISK_ACCEPTANCE_AUTHORITY affirmatively approves the acceptance or transfer of such excess risk.
-Scope
+
+# Scope\
 This policy applies to all organization-controlled code.
-Policy
-* The risk appetite of ORGANIZATION_NAME is RISK_APPETITE CURRENCY_UNITS per year.
-* The risk tolerance of ORGANIZATION_NAME is RISK_TOLERANCE CURRENCY_UNITS.
-* The RISK_ACCEPTANCE_AUTHORITY shall:
+
+# Policy\
+- The risk appetite of ORGANIZATION_NAME is RISK_APPETITE CURRENCY_UNITS per year.
+- The risk tolerance of ORGANIZATION_NAME is RISK_TOLERANCE CURRENCY_UNITS.
+- The RISK_ACCEPTANCE_AUTHORITY shall:
 
 
 | Action | Timeline | Trigger|
