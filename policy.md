@@ -5,7 +5,7 @@ Ensure risk from software vulnerabilities remains within ORGANIZATION_NAME’s a
 # Scope
 This policy applies to all organization-controlled code.
 
-# Policy
+# Risk Mitigation or Avoidance
 - The risk appetite of ORGANIZATION_NAME is RISK_APPETITE CURRENCY_UNITS per year.
 - The risk tolerance of ORGANIZATION_NAME is RISK_TOLERANCE CURRENCY_UNITS.
 - The RISK_ACCEPTANCE_AUTHORITY shall:
@@ -20,8 +20,9 @@ This policy applies to all organization-controlled code.
 |Ensure the mitigation or avoidance of risk stemming from vulnerabilities, and document such actions in VULNERABILITY_REGISTRY_LOCATION.|As needed to avoid exceeding risk tolerance.|Determination that current risk exceeds risk appetite.|
 |Ensure the preservation of all written entries in ASSET_REGISTRY_LOCATION and VULNERABILITY_REGISTRY_LOCATION.|7 calendar years|Entry of information|
 
-Risk Acceptance or Transfer
+#Risk Acceptance or Transfer
 - The RISK_ACCEPTANCE_AUTHORITY shall:
+
 | Action | Timeline | Trigger |
 |---|---|---|
 |State in writing via VULNERABILITY_REGISTRY_LOCATION:\*A plan, including timeline, for return to risk appetite; or\*intention to accept or transfer the risk from vulnerabilities if, in the written opinion of the RISK_ACCEPTANCE_AUTHORITY, doing so is in the best interests of ORGANIZATION_NAME.
@@ -29,7 +30,7 @@ In the latter case, such a statement shall include:\--Vulnerabilities for which 
 |Approve deferral of applying controls to vulnerabilities in writing via VULNERABILITY_REGISTRY_LOCATION.|100% of risk tolerance expended or 72 hours after receipt of opinion from PRIMARY_RISK_ADVISOR, whichever is less|Receipt of opinion from PRIMARY_RISK_ADVISOR|
 |When requesting an indefinite risk acceptance, conduct all above steps again, indefinitely or until risk in excess of appetite is mitigated or avoided.|180 calendar days after above step|174 calendar days after above step|	
 
-* The PRIMARY_RISK_ADVISOR shall:
+- The PRIMARY_RISK_ADVISOR shall:
 |Action|Timeline|Trigger|
 |---|---|---|
 |State, in writing via VULNERABILITY_REGISTRY_LOCATION, an opinion as to:
