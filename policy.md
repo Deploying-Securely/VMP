@@ -33,9 +33,7 @@ This policy applies to all organization-controlled code.
 
 |Action|Timeline|Trigger|
 |---|---|---|
-|State, in writing via VULNERABILITY_REGISTRY_LOCATION, an opinion as to:
-* The potential impact of exceeding the risk appetite in cybersecurity, regulatory, and reputational terms; and
-* The feasibility of the RISK_ACCEPTANCE_AUTHORITY’s plan to return to ORGANIZATION_NAME’s risk appetite.|75% of risk tolerance expended or 72 hours, whichever is less|Receipt of statement from RISK_ACCEPTANCE_AUTHORITY|
+|State, in writing via VULNERABILITY_REGISTRY_LOCATION, an opinion as to:<br> - The potential impact of exceeding the risk appetite in cybersecurity, regulatory, and reputational terms; and<br> - The feasibility of the RISK_ACCEPTANCE_AUTHORITY’s plan to return to ORGANIZATION_NAME’s risk appetite.|75% of risk tolerance expended or 72 hours, whichever is less|Receipt of statement from RISK_ACCEPTANCE_AUTHORITY|
 
 # Compliance
 - Non-compliance with this policy may result in disciplinary action, up to and including termination.
