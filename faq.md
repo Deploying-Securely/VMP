@@ -1,6 +1,7 @@
 # Frequently asked questions (FAQ)
 
 **Question**: How do I determine my organization’s risk appetite and risk tolerance?
+
 **Answer**: This will depend entirely on your line of business and the competitive, regulatory, and cybersecurity risks you face. Read this [article](https://haydock.substack.com/p/managing-your-risk-surface) on the topic as well as this [post](https://www.fairinstitute.org/blog/cyber-risk-management-establishing-a-blueprint-with-fair) from the FAIR Institute for more details on how to determine this.
 
 
