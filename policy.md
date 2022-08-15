@@ -16,14 +16,14 @@ This policy applies to all organization-controlled code.
 |Identify, in writing via the ASSET_REGISTRY_LOCATION, the CURRENCY_UNIT asset value for every asset identified in the above step.|15 calendar days|Completion of above step|
 |Ensure triage of all potential security vulnerabilities. Triage is complete when the RISK_ACCEPTANCE_AUTHORITY has ensured the written recording in VULNERABILITY_REGISTRY_LOCATION of assessments regarding:<br>- the probability of exploitation;<br> the asset or assets that would be impacted in the case of such exploitation;<br> - the exposure factor of each asset, separated by data attribute; and<br> - the annualized loss expectancy resulting from a given vulnerability.|72 hours|Detection of potential vulnerability|
 |Ensure the probability of exploitation of every identified vulnerability is reviewed and documented in VULNERABILITY_REGISTRY_LOCATION.|7 calendar days|Completion of above step|
-|Ensure the mitigation or avoidance of risk stemming from vulnerabilities, and document such actions in VULNERABILITY_REGISTRY_LOCATION.|As needed to avoid exceeding risk tolerance.|Determination that current risk exceeds risk appetite.|
+|Ensure the mitigation or avoidance of risk stemming from vulnerabilities, and document such actions in VULNERABILITY_REGISTRY_LOCATION.|As needed to avoid exceeding risk tolerance.|Determination that current risk exceeds risk appetite|
 |Ensure the preservation of all written entries in ASSET_REGISTRY_LOCATION and VULNERABILITY_REGISTRY_LOCATION.|7 calendar years|Entry of information|
 
 - The PRIMARY_RISK_ADVISOR shall:
 
 |Action|Timeline|Trigger|
 |---|---|---|
-|Designate appropriate methods for determining this probability of exploitation, which can include the use of commercial or open source automated tools. Document this in the EXPLOITABILITY_DETERMINATION_REGISTRY|7 calendar days|Enactment of policy, assumption of role, or identification of new method|
+|Designate appropriate methods for determining this probability of exploitation, which can include the use of commercial or open source automated tools. Document this in the EXPLOITABILITY_DETERMINATION_REGISTRY.|7 calendar days|Enactment of policy, assumption of role, or identification of new method|
 
 # Risk Acceptance or Transfer
 - The RISK_ACCEPTANCE_AUTHORITY shall:
