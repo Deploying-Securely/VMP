@@ -14,11 +14,16 @@ This policy applies to all organization-controlled code.
 |---|---|---|
 |Identify, in writing via the ASSET_REGISTRY_LOCATION, a mutually exclusive and completely exhaustive list of assets under the control of the RISK_ACCEPTANCE_AUTHORITY.|15 calendar days|Enactment of policy, assumption of role, or creation of new asset|
 |Identify, in writing via the ASSET_REGISTRY_LOCATION, the CURRENCY_UNIT asset value for every asset identified in the above step.|15 calendar days|Completion of above step|
-|Designate appropriate methods for determining this probability of exploitation, which can include the use of commercial or open source automated tools.|7 calendar days|Enactment of policy, assumption of role, or identification of new method|
 |Ensure triage of all potential security vulnerabilities. Triage is complete when the RISK_ACCEPTANCE_AUTHORITY has ensured the written recording in VULNERABILITY_REGISTRY_LOCATION of assessments regarding:<br>- the probability of exploitation;<br> the asset or assets that would be impacted in the case of such exploitation;<br> - the exposure factor of each asset, separated by data attribute; and<br> - the annualized loss expectancy resulting from a given vulnerability.|72 hours|Detection of potential vulnerability|
 |Ensure the probability of exploitation of every identified vulnerability is reviewed and documented in VULNERABILITY_REGISTRY_LOCATION.|7 calendar days|Completion of above step|
 |Ensure the mitigation or avoidance of risk stemming from vulnerabilities, and document such actions in VULNERABILITY_REGISTRY_LOCATION.|As needed to avoid exceeding risk tolerance.|Determination that current risk exceeds risk appetite.|
 |Ensure the preservation of all written entries in ASSET_REGISTRY_LOCATION and VULNERABILITY_REGISTRY_LOCATION.|7 calendar years|Entry of information|
+
+- The PRIMARY_RISK_ADVISOR shall:
+
+|Action|Timeline|Trigger|
+|---|---|---|
+|Designate appropriate methods for determining this probability of exploitation, which can include the use of commercial or open source automated tools. Document this in the EXPLOITABILITY_DETERMINATION_REGISTRY|7 calendar days|Enactment of policy, assumption of role, or identification of new method|
 
 # Risk Acceptance or Transfer
 - The RISK_ACCEPTANCE_AUTHORITY shall:
@@ -57,7 +62,7 @@ This policy applies to all organization-controlled code.
 
 * Vulnerability: any aspect of code that would allow a malicious actor to impact the attributes of data handled by it in a way that would cause financial loss to the organization.
 
-* Probability of exploitation: in the opinion of a person or output of a tool designated by RISK_ACCEPTANCE_AUTHORITY, the likelihood that a malicious actor will exploit a given vulnerability in the next 365.24 days, recorded as a number between 0 and 1.0.
+* Probability of exploitation: in the opinion of a person or output of a tool designated by PRIMARY_RISK_ADVISOR, the likelihood that a malicious actor will exploit a given vulnerability in the next 365.24 days, recorded as a number between 0 and 1.0.
 
 * Asset value: the financial loss over a 365.24 day period that would be suffered by the company after a completely successful malicious attack against a given asset. Each asset value shall include separate values for each data attribute.
 
