@@ -4,7 +4,7 @@
 **Answer**: This will depend entirely on your line of business and the competitive, regulatory, and cybersecurity risks you face. Read this [article](https://haydock.substack.com/p/managing-your-risk-surface) on the topic as well as this [post](https://www.fairinstitute.org/blog/cyber-risk-management-establishing-a-blueprint-with-fair) from the FAIR Institute for more details on how to determine this.
 
 **Question**: Should I use my organization’s total cyber risk appetite and risk tolerance?\
-**Answer**: No. You should only include your risk tolerance from software vulnerabilities (as defined in the policy). Risk from other things like insider threat, etc. should be counted separately.
+**Answer**: No. You should include your risk tolerance only from software vulnerabilities (as defined in the policy). Risk from other things like insider threat, etc. should be counted separately.
 
 **Question**: How do I determine the value of an asset?\
 **Answer**: Determining an asset’s value requires deep knowledge of your specific business, and depends on factors such as revenue that would be forgone, cost of replacing the asset, and less tangible factors such as reputation and goodwill. The [Deploying Securely](https://haydock.substack.com/p/the-deploying-securely-risk-assessment) blog, [FAIR Institute](https://www.fairinstitute.org/blog/how-to-quantify-total-cyber-risk-for-an-it-asset) and [RiskLens](https://www.risklens.com/resource-center/blog/fair-risk-assessment-examples-the-basics-of-a-fair-assessment) provide some guides on how to proceed.
