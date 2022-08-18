@@ -15,4 +15,4 @@ Instructions for customization
    7. VULNERABILITY_REGISTRY_LOCATION with the name of the information system where you track vulnerabilities in your network. Examples include Jira and ServiceNow.
    8. ROOT_CAUSE_ANALYSIS_REGISTRY_LOCATION with the name of the information system where you store your root cause analysis registry. Examples include SharePoint, Notion, and Confluence.
    9. EXPLOITABILITY_DETERMINATION_REGISTRY with the name of the information system where you store your methods for determining vulnerability exploitability. Examples include SharePoint, Notion, and Confluence. 
-2. Calculate your RISK_APPETITE and RISK_TOLERANCE. Find and replace these terms with the appropriate numerical values.
+2. Calculate your RISK_APPETITE and RISK_TOLERANCE. Find and replace these terms with the appropriate numerical values. 
